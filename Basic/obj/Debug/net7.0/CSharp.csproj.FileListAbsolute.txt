@@ -1,0 +1,15 @@
+/home/ale/tests/CSharp/bin/Debug/net7.0/CSharp
+/home/ale/tests/CSharp/bin/Debug/net7.0/CSharp.deps.json
+/home/ale/tests/CSharp/bin/Debug/net7.0/CSharp.runtimeconfig.json
+/home/ale/tests/CSharp/bin/Debug/net7.0/CSharp.dll
+/home/ale/tests/CSharp/bin/Debug/net7.0/CSharp.pdb
+/home/ale/tests/CSharp/obj/Debug/net7.0/CSharp.csproj.AssemblyReference.cache
+/home/ale/tests/CSharp/obj/Debug/net7.0/CSharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/ale/tests/CSharp/obj/Debug/net7.0/CSharp.AssemblyInfoInputs.cache
+/home/ale/tests/CSharp/obj/Debug/net7.0/CSharp.AssemblyInfo.cs
+/home/ale/tests/CSharp/obj/Debug/net7.0/CSharp.csproj.CoreCompileInputs.cache
+/home/ale/tests/CSharp/obj/Debug/net7.0/CSharp.dll
+/home/ale/tests/CSharp/obj/Debug/net7.0/refint/CSharp.dll
+/home/ale/tests/CSharp/obj/Debug/net7.0/CSharp.pdb
+/home/ale/tests/CSharp/obj/Debug/net7.0/CSharp.genruntimeconfig.cache
+/home/ale/tests/CSharp/obj/Debug/net7.0/ref/CSharp.dll
